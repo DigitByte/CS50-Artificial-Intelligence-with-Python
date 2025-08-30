@@ -7,7 +7,7 @@ Students learn how to design and implement intelligent systems by working with a
 
 ---
 
-## 📚 About the Course
+##About the Course
 
 **CS50AI** is a rigorous and self-paced course that blends **computer science theory**, **mathematical reasoning**, and **hands-on programming in Python**.
 It explores the building blocks of AI and machine learning, emphasizing how these methods can be used to solve complex tasks that traditionally require human intelligence.
@@ -25,7 +25,7 @@ This course also introduces widely used Python libraries and frameworks for AI a
 
 ---
 
-## 🗂 Topics Covered
+##Topics Covered
 
 The course is organized into lectures, each focusing on a major concept in AI:
 
@@ -39,7 +39,7 @@ The course is organized into lectures, each focusing on a major concept in AI:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 - **`notes/`** — Detailed summaries, diagrams, and explanations for each lecture and concept.
 - **`projects/`** — My personal implementations of the course projects and problem sets, created independently for practice and understanding.
@@ -50,7 +50,7 @@ The course is organized into lectures, each focusing on a major concept in AI:
 
 ---
 
-## 🔗 Resources
+##Resources
 
 - 🎥 **Lecture Videos** – [CS50AI YouTube Playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8)
 - 🌐 **Official Course Website** – [https://cs50.harvard.edu/ai/2024/](https://cs50.harvard.edu/ai/2024/)
@@ -59,14 +59,14 @@ The course is organized into lectures, each focusing on a major concept in AI:
 
 ---
 
-## 🛡️ License
+## License
 
 All official CS50AI materials are © Harvard University and licensed under the [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 This repository’s additional content (notes, explanations, and original code) is shared under the same license.
 
 ---
 
-## 🙌 Acknowledgements
+##Acknowledgements
 
 My gratitude to **Harvard University**, **Professor Brian Yu**, and the **CS50 team** for creating a world-class curriculum that is freely accessible worldwide.
 This course has not only deepened my understanding of artificial intelligence but has also provided the inspiration and tools to create intelligent systems of my own.
