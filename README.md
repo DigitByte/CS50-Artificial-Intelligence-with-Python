@@ -66,7 +66,7 @@ This repository’s additional content (notes, explanations, and original code) 
 
 ---
 
-##Acknowledgements
+## Acknowledgements
 
 My gratitude to **Harvard University**, **Professor Brian Yu**, and the **CS50 team** for creating a world-class curriculum that is freely accessible worldwide.
 This course has not only deepened my understanding of artificial intelligence but has also provided the inspiration and tools to create intelligent systems of my own.
